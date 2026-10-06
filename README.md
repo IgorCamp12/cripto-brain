@@ -174,9 +174,7 @@ A principal preocupação foi evitar respostas sem referência. Por isso, o note
 
 ## 11. Link do notebook
 
-**Adicionar aqui o link do notebook compartilhado após sua criação:**
-
-`COLOCAR_LINK_DO_GEMINI_NOTEBOOK_AQUI`
+(https://notebook.google.com/notebook/7b3f1be6-ee40-465e-bf58-d8bc185c4c39)
 
 ## 12. Estrutura do projeto
 
