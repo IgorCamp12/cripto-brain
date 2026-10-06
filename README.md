@@ -1,0 +1,2 @@
+# cripto-brain
+NotebookLM - Cripto
